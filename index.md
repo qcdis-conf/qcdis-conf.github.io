@@ -26,6 +26,12 @@ CONF tries to plan infrastructures based on social media application requirement
 ### Provisioning Infrastructure over distributed providers
 Most current IaaS (Infrastructure-as-a-Service) clouds provide dedicated virtual infrastructure resources to cloud applications with only limited programmability and controllability, which enlarges the management gap between infrastructures and applications. 
 
+
+<img align="left"  src="https://articonf.eu/wp-content/uploads/2021/02/2021-1-UvA-Is-Decentralized-Cloud-Marketplace-a-Reality-content.jpeg" alt="ARTICONF"
+	title="ARTICONF" width="450" height="350" />
+
+
+
 CONF wants to provide different services and resources based on performance and reliability, taking into account locality of data sources to minimize data transfer and delays, while ensuring a smooth operation of the highly distributed application. So, the expected output of this section is to develop a smart agent for optimized provisioning virtual infrastructures for social media applications from the following aspects: 1) design strategies for provisioning (federated) virtual infrastructure for a given social media application based on multi-constraints on security, performance, locality and budget. 2) develop an automated provisioning engine able to deploy social media applications on a federated Cloud infrastructure (over multiple cloud provider if necessary). 3) provide a secure API for the other services to invoke and query the infrastructure provisioning engine.
 
 ### Time critical software deployment
