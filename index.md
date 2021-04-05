@@ -4,7 +4,7 @@ The Co-located and Orchestrated Network Fabric (CONF) component of ARTICONF prov
 
 
 <img align="right"  src="/images/conf%20architecture.png" alt="CONF's architecture"
-	title="CONF's architecture" width="450" height="300" />
+	title="CONF's architecture" width="450" height="350" />
 
 
 
