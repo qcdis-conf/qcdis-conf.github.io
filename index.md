@@ -4,6 +4,10 @@ The Co-located and Orchestrated Network Fabric (CONF) component of ARTICONF prov
 
 ![CONF's architecture](https://raw.githubusercontent.com/qcdis-conf/qcdis-conf.github.io/main/images/conf%20architecture.png "CONF's architecture")
 
+<img src="/images/conf%20architecture.png" alt="CONF's architecture"
+	title="CONF's architecture" width="150" height="100" />
+
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TzsIa5W5nlo/0.jpg)](https://www.youtube.com/watch?v=TzsIa5W5nlo)
 
