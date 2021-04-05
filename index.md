@@ -38,6 +38,12 @@ Given a distributed multi-site social media infrastructure, CONF needs to ensure
 ### Infrastructure monitoring, diagnosing and adaptation
 Due to the dynamic nature of the cloud, continuous monitoring on Quality of Service (QoS) attributes is necessary to optimize cloud infrastructure operation
 
+
+<img align="right"  src="https://articonf.eu/wp-content/uploads/2021/03/Home_Page_Illustration.png" alt="monitoring"
+	title="monitoring" width="450" height="350" />
+
+
+
 The infrastructure provisioned by CONF monitors its own state, taking timely adaptation responses to failures, performance losses or other trigger conditions. The expected output of this section is develop the monitoring services need by CONF, allowing systematic collection of information about the runtime status of the deployed social media applications and of their underlying infrastructure and network. More specifically, we need to: 1) provide an API for application integration and monitoring of key quality attributes, 2) develop tools for monitoring the runtime state of the virtual infrastructure hosting an application, and 3) deploy a monitoring database service alongside applications with full SMART integration. For the adaptation part, CONF needs to autonomously adjust the infrastructure in response to threats identified by the monitoring framework. The expected output includes: 1) research of performance models for time and trust-critical federated social media applications, 2) development of a control model for adapting the virtual infrastructure based on the interplay between the requirements and the metrics provided via monitoring, and 3) provision of an agent-based service for autonomous adaptation of the CONF-deployed infrastructure.
 
 
