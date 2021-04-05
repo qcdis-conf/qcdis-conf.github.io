@@ -2,7 +2,8 @@
 
 The Co-located and Orchestrated Network Fabric (CONF) component of ARTICONF provides a suite of micro-services that collectively perform the provisioning, monitoring and adaptation of customized virtual infrastructures for federated time and trust critical social media applications. It seamlessly integrates with the cloud edge infrastructure, able to intelligently provision services based on abstract application service requirements, operational conditions at infrastructure level, and time-critical event triggering. Henceforth, we describe the research work related to the concepts and methods of CONF components in the ARTICONF project, as well as the corresponding major opportunities and challenges.
 
-![CONF](/images/conf architecture.png)
+![CONF's architecture](images/conf_architecture.png "CONF's architecture")
+
 
 ### Infrastructure planning
 Deploying the same tasks on different types of infrastructure provided by cloud providers can leads to different results; in general, better virtual infrastructures can lead to better performance, but often at a higher cost. Therefore, planning for cloud infrastructure is important, and an infrastructure planner for the Cloud should plan an optimal infrastructure strategy that not only meets the QoS requirements of the application, but also achieves additional objectives such as minimizing monetary cost or power consumption. For this reason, cloud infrastructure planning for time critical applications is often more challenging than scheduling application workflows onto fixed infrastructure. 
