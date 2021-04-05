@@ -4,6 +4,7 @@ The Co-located and Orchestrated Network Fabric (CONF) component of ARTICONF prov
 
 ![CONF's architecture](https://raw.githubusercontent.com/qcdis-conf/qcdis-conf.github.io/main/images/conf%20architecture.png "CONF's architecture")
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=TzsIa5W5nlo "Video Title")
 
 ### Infrastructure planning
 Deploying the same tasks on different types of infrastructure provided by cloud providers can leads to different results; in general, better virtual infrastructures can lead to better performance, but often at a higher cost. Therefore, planning for cloud infrastructure is important, and an infrastructure planner for the Cloud should plan an optimal infrastructure strategy that not only meets the QoS requirements of the application, but also achieves additional objectives such as minimizing monetary cost or power consumption. For this reason, cloud infrastructure planning for time critical applications is often more challenging than scheduling application workflows onto fixed infrastructure. 
