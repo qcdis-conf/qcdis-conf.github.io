@@ -2,10 +2,9 @@
 
 The Co-located and Orchestrated Network Fabric (CONF) component of ARTICONF provides a suite of micro-services that collectively perform the provisioning, monitoring and adaptation of customized virtual infrastructures for federated time and trust critical social media applications. It seamlessly integrates with the cloud edge infrastructure, able to intelligently provision services based on abstract application service requirements, operational conditions at infrastructure level, and time-critical event triggering. Henceforth, we describe the research work related to the concepts and methods of CONF components in the ARTICONF project, as well as the corresponding major opportunities and challenges.
 
-![CONF's architecture](https://raw.githubusercontent.com/qcdis-conf/qcdis-conf.github.io/main/images/conf%20architecture.png "CONF's architecture")
 
 <img src="/images/conf%20architecture.png" alt="CONF's architecture"
-	title="CONF's architecture" width="150" height="100" />
+	title="CONF's architecture" width="250" height="200" />
 
 
 
