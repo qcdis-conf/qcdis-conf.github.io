@@ -16,6 +16,10 @@ The Co-located and Orchestrated Network Fabric (CONF) component of ARTICONF prov
 ### Infrastructure planning
 Deploying the same tasks on different types of infrastructure provided by cloud providers can leads to different results; in general, better virtual infrastructures can lead to better performance, but often at a higher cost. Therefore, planning for cloud infrastructure is important, and an infrastructure planner for the Cloud should plan an optimal infrastructure strategy that not only meets the QoS requirements of the application, but also achieves additional objectives such as minimizing monetary cost or power consumption. For this reason, cloud infrastructure planning for time critical applications is often more challenging than scheduling application workflows onto fixed infrastructure. 
 
+<img align="right"  src="https://articonf.eu/wp-content/uploads/revslider/sofbox-6/home6_rev_02.png" alt="ARTICONF"
+	title="ARTICONF" width="450" height="350" />
+
+
 CONF tries to plan infrastructures based on social media application requirements and adapt it swiftly in response to changing conditions, ensuring a sustained high QoS and continued satisfaction of requirements. So, the expected output of this section is to develop mechanisms for optimized planning virtual infrastructures for social media applications developed Cloud edge-based environments through the following actions: 1) develop algorithms for planning (federated) virtual infrastructure for a given social media application based on constraints on security, performance, locality and budget, 2) develop an automated planning engine which able to deploy social media applications on a federated Cloud infrastructure efficiently (over multiple cloud provider if necessary), and 3) provide a secure API for the other services to invoke and query the infrastructure planning engine. 
 
 
